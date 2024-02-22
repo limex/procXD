@@ -108,12 +108,12 @@ if __name__ == "__main__":
     draw_tree(sketch_builder, start=[-300, 0], end=[-300, -65],)
     draw_tree(sketch_builder, start=[-300, 300], end=[-300, 235],)
     draw_tree(sketch_builder, start=[0, 300], end=[0, 235],)
-    SAVE_FILE = "examples/xd_figures/tree.excalidraw"
+    SAVE_FILE = "results/tree.excalidraw"
     sketch_builder.export_to_file(save_path=SAVE_FILE)
     sketch_builder.refresh()
 
     # EXAMPLE 2: Create a plot of a function
     sketch_builder = SketchBuilder()
     graph_cardiod(sketch_builder, start_shift=[400, 0])
-    SAVE_FILE = "examples/xd_figures/cardiod.excalidraw"
+    SAVE_FILE = "results/cardiod.excalidraw"
     sketch_builder.export_to_file(save_path=SAVE_FILE)

@@ -11,5 +11,5 @@ if __name__ == "__main__":
         G.nodes[node]['pos'] = pos[node]
     sketch_builder = SketchBuilder()
     sketch_builder.render_networkx_graph(G)
-    SAVE_FILE = "examples/xd_figures/network.excalidraw"
+    SAVE_FILE = "results/network.excalidraw"
     sketch_builder.export_to_file(save_path=SAVE_FILE)

@@ -10,14 +10,14 @@
             "height": 756,
             "angle": 0,
             "strokeColor": "#000000",
-            "backgroundColor": "#B5ABAC",
+            "backgroundColor": "#F80491",
             "fillStyle": "solid",
             "strokeStyle": "solid",
             "strokeWidth": 1,
             "roughness": 1,
             "opacity": 100,
             "groupIds": [
-                "fee319cf-5b9b-41a6-90e7-e3cf0dd568b1"
+                "27eb7e08-8df0-43f7-a088-1ec61adcd36d"
             ],
             "roundness": null,
             "version": 1,
@@ -28,8 +28,8 @@
             "link": null,
             "locked": false,
             "type": "rectangle",
-            "id": "be8b855a-d86e-4efd-8d6a-533779767a1a",
-            "seed": 73641
+            "id": "64012d03-7f53-461b-a354-d4d8e0842ef0",
+            "seed": 97764
         },
         {
             "x": 10,
@@ -38,17 +38,17 @@
             "height": 112,
             "angle": 0,
             "strokeColor": "#000000",
-            "backgroundColor": "#ffffff",
+            "backgroundColor": "#c8ff1d",
             "fillStyle": "solid",
             "strokeStyle": "solid",
             "strokeWidth": 1,
             "roughness": 1,
             "opacity": 100,
             "groupIds": [
-                "ed6b562c-d62d-4cc0-b075-6526105f8fb2",
-                "e36a6495-4cba-4f1c-82b6-aa3ee22fb908",
-                "81229fae-bac0-4f42-99db-eeb65bbe5137",
-                "fee319cf-5b9b-41a6-90e7-e3cf0dd568b1"
+                "498ff9f5-bf20-4615-b3ce-678f4bb369f7",
+                "9dbd2a23-1514-461d-8975-c8123c154759",
+                "891bf203-11fa-43b1-a737-99765a525d8b",
+                "27eb7e08-8df0-43f7-a088-1ec61adcd36d"
             ],
             "roundness": null,
             "version": 1,
@@ -59,8 +59,8 @@
             "link": null,
             "locked": false,
             "type": "rectangle",
-            "id": "b7c21aea-8593-402a-a220-0a4552404c7d",
-            "seed": 64349
+            "id": "4e66ffec-ef14-4697-8ceb-c6ced77365d7",
+            "seed": 86172
         },
         {
             "x": 20,
@@ -76,11 +76,11 @@
             "roughness": 1,
             "opacity": 100,
             "groupIds": [
-                "62048578-319f-4050-8d0d-0eccb7003904",
-                "ed6b562c-d62d-4cc0-b075-6526105f8fb2",
-                "e36a6495-4cba-4f1c-82b6-aa3ee22fb908",
-                "81229fae-bac0-4f42-99db-eeb65bbe5137",
-                "fee319cf-5b9b-41a6-90e7-e3cf0dd568b1"
+                "e8e7ec4a-a0bf-41b0-ac8f-d8c2e354140a",
+                "498ff9f5-bf20-4615-b3ce-678f4bb369f7",
+                "9dbd2a23-1514-461d-8975-c8123c154759",
+                "891bf203-11fa-43b1-a737-99765a525d8b",
+                "27eb7e08-8df0-43f7-a088-1ec61adcd36d"
             ],
             "roundness": null,
             "version": 1,
@@ -97,10 +97,10 @@
             "verticalAlign": "top",
             "baseline": 18,
             "containerId": null,
-            "originalText": "default text",
+            "originalText": "cfg.EXPERIMENT.NAME = \"NetworkAblation\"",
             "type": "text",
-            "id": "68f224bd-5aef-406e-b48d-642d1640c1c7",
-            "seed": 73248
+            "id": "f15c2450-1262-484a-a1ee-cb6236a49d30",
+            "seed": 10697
         },
         {
             "x": 20,
@@ -116,11 +116,11 @@
             "roughness": 1,
             "opacity": 100,
             "groupIds": [
-                "62048578-319f-4050-8d0d-0eccb7003904",
-                "ed6b562c-d62d-4cc0-b075-6526105f8fb2",
-                "e36a6495-4cba-4f1c-82b6-aa3ee22fb908",
-                "81229fae-bac0-4f42-99db-eeb65bbe5137",
-                "fee319cf-5b9b-41a6-90e7-e3cf0dd568b1"
+                "e8e7ec4a-a0bf-41b0-ac8f-d8c2e354140a",
+                "498ff9f5-bf20-4615-b3ce-678f4bb369f7",
+                "9dbd2a23-1514-461d-8975-c8123c154759",
+                "891bf203-11fa-43b1-a737-99765a525d8b",
+                "27eb7e08-8df0-43f7-a088-1ec61adcd36d"
             ],
             "roundness": null,
             "version": 1,
@@ -137,10 +137,10 @@
             "verticalAlign": "top",
             "baseline": 18,
             "containerId": null,
-            "originalText": "default text",
+            "originalText": "cfg.EXPERIMENT.VERSION = \"v1\"",
             "type": "text",
-            "id": "0b69b6be-8732-4895-86c6-a7e97ec64372",
-            "seed": 25866
+            "id": "5fe1e3c0-b3d6-47f6-bf03-309f027d5d08",
+            "seed": 89069
         },
         {
             "x": 20,
@@ -156,11 +156,11 @@
             "roughness": 1,
             "opacity": 100,
             "groupIds": [
-                "62048578-319f-4050-8d0d-0eccb7003904",
-                "ed6b562c-d62d-4cc0-b075-6526105f8fb2",
-                "e36a6495-4cba-4f1c-82b6-aa3ee22fb908",
-                "81229fae-bac0-4f42-99db-eeb65bbe5137",
-                "fee319cf-5b9b-41a6-90e7-e3cf0dd568b1"
+                "e8e7ec4a-a0bf-41b0-ac8f-d8c2e354140a",
+                "498ff9f5-bf20-4615-b3ce-678f4bb369f7",
+                "9dbd2a23-1514-461d-8975-c8123c154759",
+                "891bf203-11fa-43b1-a737-99765a525d8b",
+                "27eb7e08-8df0-43f7-a088-1ec61adcd36d"
             ],
             "roundness": null,
             "version": 1,
@@ -177,10 +177,10 @@
             "verticalAlign": "top",
             "baseline": 18,
             "containerId": null,
-            "originalText": "default text",
+            "originalText": "cfg.EXPERIMENT.MACHINE = \"CLUSTER\"",
             "type": "text",
-            "id": "51cf041d-74d9-4055-a5ed-2cb0f4bd982a",
-            "seed": 54248
+            "id": "dee59ef3-0c87-41f5-9208-f64fe41237d6",
+            "seed": 74953
         },
         {
             "x": 10,
@@ -189,17 +189,17 @@
             "height": 180,
             "angle": 0,
             "strokeColor": "#000000",
-            "backgroundColor": "#ffffff",
+            "backgroundColor": "#1de6ff",
             "fillStyle": "solid",
             "strokeStyle": "solid",
             "strokeWidth": 1,
             "roughness": 1,
             "opacity": 100,
             "groupIds": [
-                "144e79e1-b008-489b-a5cc-3208a1f8b5e4",
-                "e36a6495-4cba-4f1c-82b6-aa3ee22fb908",
-                "81229fae-bac0-4f42-99db-eeb65bbe5137",
-                "fee319cf-5b9b-41a6-90e7-e3cf0dd568b1"
+                "f8014cfa-a8e7-474d-bb82-abea70654e4a",
+                "9dbd2a23-1514-461d-8975-c8123c154759",
+                "891bf203-11fa-43b1-a737-99765a525d8b",
+                "27eb7e08-8df0-43f7-a088-1ec61adcd36d"
             ],
             "roundness": null,
             "version": 1,
@@ -210,8 +210,8 @@
             "link": null,
             "locked": false,
             "type": "rectangle",
-            "id": "999789ec-c724-4902-8f41-b80a6c458307",
-            "seed": 72327
+            "id": "7f817769-c2a3-447a-909e-4a7b87556d90",
+            "seed": 21582
         },
         {
             "x": 20,
@@ -227,11 +227,11 @@
             "roughness": 1,
             "opacity": 100,
             "groupIds": [
-                "1acf5264-53b1-423d-b893-6af4270d584f",
-                "144e79e1-b008-489b-a5cc-3208a1f8b5e4",
-                "e36a6495-4cba-4f1c-82b6-aa3ee22fb908",
-                "81229fae-bac0-4f42-99db-eeb65bbe5137",
-                "fee319cf-5b9b-41a6-90e7-e3cf0dd568b1"
+                "7470954d-5c14-4c8e-8e1b-cbc300f11abe",
+                "f8014cfa-a8e7-474d-bb82-abea70654e4a",
+                "9dbd2a23-1514-461d-8975-c8123c154759",
+                "891bf203-11fa-43b1-a737-99765a525d8b",
+                "27eb7e08-8df0-43f7-a088-1ec61adcd36d"
             ],
             "roundness": null,
             "version": 1,
@@ -248,10 +248,10 @@
             "verticalAlign": "top",
             "baseline": 18,
             "containerId": null,
-            "originalText": "default text",
+            "originalText": "cfg.DATASET.NAME = \"CIFAR10\"",
             "type": "text",
-            "id": "60ad9459-0f69-45b4-9157-834a32324457",
-            "seed": 20074
+            "id": "b725d56c-cc10-4a56-ac64-62ef510b840b",
+            "seed": 41376
         },
         {
             "x": 20,
@@ -267,11 +267,11 @@
             "roughness": 1,
             "opacity": 100,
             "groupIds": [
-                "1acf5264-53b1-423d-b893-6af4270d584f",
-                "144e79e1-b008-489b-a5cc-3208a1f8b5e4",
-                "e36a6495-4cba-4f1c-82b6-aa3ee22fb908",
-                "81229fae-bac0-4f42-99db-eeb65bbe5137",
-                "fee319cf-5b9b-41a6-90e7-e3cf0dd568b1"
+                "7470954d-5c14-4c8e-8e1b-cbc300f11abe",
+                "f8014cfa-a8e7-474d-bb82-abea70654e4a",
+                "9dbd2a23-1514-461d-8975-c8123c154759",
+                "891bf203-11fa-43b1-a737-99765a525d8b",
+                "27eb7e08-8df0-43f7-a088-1ec61adcd36d"
             ],
             "roundness": null,
             "version": 1,
@@ -288,10 +288,10 @@
             "verticalAlign": "top",
             "baseline": 18,
             "containerId": null,
-            "originalText": "default text",
+            "originalText": "cfg.DATASET.PATH = \"/home/aditya/data/cifar10\"",
             "type": "text",
-            "id": "526d3fd5-8125-44b0-9b52-c0c9309b001f",
-            "seed": 29335
+            "id": "34de0430-fc71-41e5-99c2-4eb0b926285c",
+            "seed": 74250
         },
         {
             "x": 20,
@@ -307,11 +307,11 @@
             "roughness": 1,
             "opacity": 100,
             "groupIds": [
-                "1acf5264-53b1-423d-b893-6af4270d584f",
-                "144e79e1-b008-489b-a5cc-3208a1f8b5e4",
-                "e36a6495-4cba-4f1c-82b6-aa3ee22fb908",
-                "81229fae-bac0-4f42-99db-eeb65bbe5137",
-                "fee319cf-5b9b-41a6-90e7-e3cf0dd568b1"
+                "7470954d-5c14-4c8e-8e1b-cbc300f11abe",
+                "f8014cfa-a8e7-474d-bb82-abea70654e4a",
+                "9dbd2a23-1514-461d-8975-c8123c154759",
+                "891bf203-11fa-43b1-a737-99765a525d8b",
+                "27eb7e08-8df0-43f7-a088-1ec61adcd36d"
             ],
             "roundness": null,
             "version": 1,
@@ -328,10 +328,10 @@
             "verticalAlign": "top",
             "baseline": 18,
             "containerId": null,
-            "originalText": "default text",
+            "originalText": "cfg.DATASET.NUM_CLASSES = 5",
             "type": "text",
-            "id": "283e2744-8d51-4027-98ca-e337c925af8a",
-            "seed": 88782
+            "id": "14d1d33f-e0a8-4021-9aec-a274b55c5f00",
+            "seed": 19812
         },
         {
             "x": 20,
@@ -347,11 +347,11 @@
             "roughness": 1,
             "opacity": 100,
             "groupIds": [
-                "1acf5264-53b1-423d-b893-6af4270d584f",
-                "144e79e1-b008-489b-a5cc-3208a1f8b5e4",
-                "e36a6495-4cba-4f1c-82b6-aa3ee22fb908",
-                "81229fae-bac0-4f42-99db-eeb65bbe5137",
-                "fee319cf-5b9b-41a6-90e7-e3cf0dd568b1"
+                "7470954d-5c14-4c8e-8e1b-cbc300f11abe",
+                "f8014cfa-a8e7-474d-bb82-abea70654e4a",
+                "9dbd2a23-1514-461d-8975-c8123c154759",
+                "891bf203-11fa-43b1-a737-99765a525d8b",
+                "27eb7e08-8df0-43f7-a088-1ec61adcd36d"
             ],
             "roundness": null,
             "version": 1,
@@ -368,10 +368,10 @@
             "verticalAlign": "top",
             "baseline": 18,
             "containerId": null,
-            "originalText": "default text",
+            "originalText": "cfg.DATASET.CLASSES = ['airplane', 'automobile', 'bird', 'cat', 'deer']",
             "type": "text",
-            "id": "4d8e37e6-e205-4241-b7db-d3b9dab0a7b2",
-            "seed": 65384
+            "id": "8a3f1cd2-2d44-4b6b-a8cc-9c100f9d33be",
+            "seed": 98544
         },
         {
             "x": 20,
@@ -387,11 +387,11 @@
             "roughness": 1,
             "opacity": 100,
             "groupIds": [
-                "1acf5264-53b1-423d-b893-6af4270d584f",
-                "144e79e1-b008-489b-a5cc-3208a1f8b5e4",
-                "e36a6495-4cba-4f1c-82b6-aa3ee22fb908",
-                "81229fae-bac0-4f42-99db-eeb65bbe5137",
-                "fee319cf-5b9b-41a6-90e7-e3cf0dd568b1"
+                "7470954d-5c14-4c8e-8e1b-cbc300f11abe",
+                "f8014cfa-a8e7-474d-bb82-abea70654e4a",
+                "9dbd2a23-1514-461d-8975-c8123c154759",
+                "891bf203-11fa-43b1-a737-99765a525d8b",
+                "27eb7e08-8df0-43f7-a088-1ec61adcd36d"
             ],
             "roundness": null,
             "version": 1,
@@ -408,10 +408,10 @@
             "verticalAlign": "top",
             "baseline": 18,
             "containerId": null,
-            "originalText": "default text",
+            "originalText": "cfg.DATASET.NUM_TRAIN = 50000",
             "type": "text",
-            "id": "dd2a1f57-d6d1-46b1-b844-c26991f41b10",
-            "seed": 66961
+            "id": "96660c96-d006-432c-a4fc-83da58a407de",
+            "seed": 42740
         },
         {
             "x": 10,
@@ -420,17 +420,17 @@
             "height": 268,
             "angle": 0,
             "strokeColor": "#000000",
-            "backgroundColor": "#ffffff",
+            "backgroundColor": "#92ff1d",
             "fillStyle": "solid",
             "strokeStyle": "solid",
             "strokeWidth": 1,
             "roughness": 1,
             "opacity": 100,
             "groupIds": [
-                "f7c98b05-2715-4d89-9151-c1f8bb2274ca",
-                "e36a6495-4cba-4f1c-82b6-aa3ee22fb908",
-                "81229fae-bac0-4f42-99db-eeb65bbe5137",
-                "fee319cf-5b9b-41a6-90e7-e3cf0dd568b1"
+                "8deee174-52b8-4273-84d3-b5eaf8123c02",
+                "9dbd2a23-1514-461d-8975-c8123c154759",
+                "891bf203-11fa-43b1-a737-99765a525d8b",
+                "27eb7e08-8df0-43f7-a088-1ec61adcd36d"
             ],
             "roundness": null,
             "version": 1,
@@ -441,8 +441,8 @@
             "link": null,
             "locked": false,
             "type": "rectangle",
-            "id": "f9f5d3df-a700-4fa2-a6f4-89398dea0fde",
-            "seed": 8182
+            "id": "fa101b0c-94fc-4510-aa9e-9350d7bae854",
+            "seed": 60005
         },
         {
             "x": 20,
@@ -458,12 +458,12 @@
             "roughness": 1,
             "opacity": 100,
             "groupIds": [
-                "4434ad88-88b2-46ab-9679-8d6a595b6dfb",
-                "d5ff3a99-648f-493b-b7d6-cefc87385422",
-                "f7c98b05-2715-4d89-9151-c1f8bb2274ca",
-                "e36a6495-4cba-4f1c-82b6-aa3ee22fb908",
-                "81229fae-bac0-4f42-99db-eeb65bbe5137",
-                "fee319cf-5b9b-41a6-90e7-e3cf0dd568b1"
+                "06d18397-2eb6-4600-a9c7-408f5b7bc834",
+                "ce5e5ed0-70fb-4aa7-9b23-749125da996f",
+                "8deee174-52b8-4273-84d3-b5eaf8123c02",
+                "9dbd2a23-1514-461d-8975-c8123c154759",
+                "891bf203-11fa-43b1-a737-99765a525d8b",
+                "27eb7e08-8df0-43f7-a088-1ec61adcd36d"
             ],
             "roundness": null,
             "version": 1,
@@ -480,10 +480,10 @@
             "verticalAlign": "top",
             "baseline": 18,
             "containerId": null,
-            "originalText": "default text",
+            "originalText": "cfg.TRAIN.BATCH_SIZE = 128",
             "type": "text",
-            "id": "3da0760b-dd28-4700-a1db-736768bd863b",
-            "seed": 25668
+            "id": "a37f5e08-f82e-4854-88da-5e35324d2132",
+            "seed": 85945
         },
         {
             "x": 20,
@@ -499,12 +499,12 @@
             "roughness": 1,
             "opacity": 100,
             "groupIds": [
-                "4434ad88-88b2-46ab-9679-8d6a595b6dfb",
-                "d5ff3a99-648f-493b-b7d6-cefc87385422",
-                "f7c98b05-2715-4d89-9151-c1f8bb2274ca",
-                "e36a6495-4cba-4f1c-82b6-aa3ee22fb908",
-                "81229fae-bac0-4f42-99db-eeb65bbe5137",
-                "fee319cf-5b9b-41a6-90e7-e3cf0dd568b1"
+                "06d18397-2eb6-4600-a9c7-408f5b7bc834",
+                "ce5e5ed0-70fb-4aa7-9b23-749125da996f",
+                "8deee174-52b8-4273-84d3-b5eaf8123c02",
+                "9dbd2a23-1514-461d-8975-c8123c154759",
+                "891bf203-11fa-43b1-a737-99765a525d8b",
+                "27eb7e08-8df0-43f7-a088-1ec61adcd36d"
             ],
             "roundness": null,
             "version": 1,
@@ -521,10 +521,10 @@
             "verticalAlign": "top",
             "baseline": 18,
             "containerId": null,
-            "originalText": "default text",
+            "originalText": "cfg.TRAIN.LOG_ITER = 100",
             "type": "text",
-            "id": "810a8dca-9a0b-4cdb-a240-68efd228f177",
-            "seed": 76707
+            "id": "3c48a825-2fbd-4169-b33a-828ff3f54777",
+            "seed": 55712
         },
         {
             "x": 20,
@@ -540,12 +540,12 @@
             "roughness": 1,
             "opacity": 100,
             "groupIds": [
-                "4434ad88-88b2-46ab-9679-8d6a595b6dfb",
-                "d5ff3a99-648f-493b-b7d6-cefc87385422",
-                "f7c98b05-2715-4d89-9151-c1f8bb2274ca",
-                "e36a6495-4cba-4f1c-82b6-aa3ee22fb908",
-                "81229fae-bac0-4f42-99db-eeb65bbe5137",
-                "fee319cf-5b9b-41a6-90e7-e3cf0dd568b1"
+                "06d18397-2eb6-4600-a9c7-408f5b7bc834",
+                "ce5e5ed0-70fb-4aa7-9b23-749125da996f",
+                "8deee174-52b8-4273-84d3-b5eaf8123c02",
+                "9dbd2a23-1514-461d-8975-c8123c154759",
+                "891bf203-11fa-43b1-a737-99765a525d8b",
+                "27eb7e08-8df0-43f7-a088-1ec61adcd36d"
             ],
             "roundness": null,
             "version": 1,
@@ -562,10 +562,10 @@
             "verticalAlign": "top",
             "baseline": 18,
             "containerId": null,
-            "originalText": "default text",
+            "originalText": "cfg.TRAIN.LOSSES = ['CE']",
             "type": "text",
-            "id": "9778bdb4-ba96-4647-8b5f-7651354d70fb",
-            "seed": 68397
+            "id": "f2f43024-af70-4e31-9d15-3cf3114a4e1b",
+            "seed": 24766
         },
         {
             "x": 20,
@@ -574,20 +574,20 @@
             "height": 146,
             "angle": 0,
             "strokeColor": "#000000",
-            "backgroundColor": "#ffffff",
+            "backgroundColor": "#36adff",
             "fillStyle": "solid",
             "strokeStyle": "solid",
             "strokeWidth": 1,
             "roughness": 1,
             "opacity": 100,
             "groupIds": [
-                "8ef3c312-d6a9-4719-a224-513c3dd049b0",
-                "410e7d5e-be61-417f-8655-2bb313034621",
-                "d5ff3a99-648f-493b-b7d6-cefc87385422",
-                "f7c98b05-2715-4d89-9151-c1f8bb2274ca",
-                "e36a6495-4cba-4f1c-82b6-aa3ee22fb908",
-                "81229fae-bac0-4f42-99db-eeb65bbe5137",
-                "fee319cf-5b9b-41a6-90e7-e3cf0dd568b1"
+                "9d80518f-217a-42c2-8c2d-8d8d1e18a13e",
+                "e8f1e1e6-d13e-42a7-93dd-2ac889880b68",
+                "ce5e5ed0-70fb-4aa7-9b23-749125da996f",
+                "8deee174-52b8-4273-84d3-b5eaf8123c02",
+                "9dbd2a23-1514-461d-8975-c8123c154759",
+                "891bf203-11fa-43b1-a737-99765a525d8b",
+                "27eb7e08-8df0-43f7-a088-1ec61adcd36d"
             ],
             "roundness": null,
             "version": 1,
@@ -598,8 +598,8 @@
             "link": null,
             "locked": false,
             "type": "rectangle",
-            "id": "8f69817e-a515-4863-be9a-f02966fcea2d",
-            "seed": 92928
+            "id": "d4b80eb1-864d-4293-b374-6cf938750db2",
+            "seed": 28256
         },
         {
             "x": 30,
@@ -615,14 +615,14 @@
             "roughness": 1,
             "opacity": 100,
             "groupIds": [
-                "7f91fc96-0303-4058-84a7-5dc12cceeb6e",
-                "8ef3c312-d6a9-4719-a224-513c3dd049b0",
-                "410e7d5e-be61-417f-8655-2bb313034621",
-                "d5ff3a99-648f-493b-b7d6-cefc87385422",
-                "f7c98b05-2715-4d89-9151-c1f8bb2274ca",
-                "e36a6495-4cba-4f1c-82b6-aa3ee22fb908",
-                "81229fae-bac0-4f42-99db-eeb65bbe5137",
-                "fee319cf-5b9b-41a6-90e7-e3cf0dd568b1"
+                "ae191a55-4c5a-4771-abce-a33cfea3f9ed",
+                "9d80518f-217a-42c2-8c2d-8d8d1e18a13e",
+                "e8f1e1e6-d13e-42a7-93dd-2ac889880b68",
+                "ce5e5ed0-70fb-4aa7-9b23-749125da996f",
+                "8deee174-52b8-4273-84d3-b5eaf8123c02",
+                "9dbd2a23-1514-461d-8975-c8123c154759",
+                "891bf203-11fa-43b1-a737-99765a525d8b",
+                "27eb7e08-8df0-43f7-a088-1ec61adcd36d"
             ],
             "roundness": null,
             "version": 1,
@@ -639,10 +639,10 @@
             "verticalAlign": "top",
             "baseline": 18,
             "containerId": null,
-            "originalText": "default text",
+            "originalText": "cfg.TRAIN.OPTIM.TYPE = \"SGD\"",
             "type": "text",
-            "id": "756a14f4-4f70-4200-83ee-3ca8ac7ef00d",
-            "seed": 91305
+            "id": "c95fbb98-9182-4040-a36e-3b6a8216b194",
+            "seed": 87839
         },
         {
             "x": 30,
@@ -658,14 +658,14 @@
             "roughness": 1,
             "opacity": 100,
             "groupIds": [
-                "7f91fc96-0303-4058-84a7-5dc12cceeb6e",
-                "8ef3c312-d6a9-4719-a224-513c3dd049b0",
-                "410e7d5e-be61-417f-8655-2bb313034621",
-                "d5ff3a99-648f-493b-b7d6-cefc87385422",
-                "f7c98b05-2715-4d89-9151-c1f8bb2274ca",
-                "e36a6495-4cba-4f1c-82b6-aa3ee22fb908",
-                "81229fae-bac0-4f42-99db-eeb65bbe5137",
-                "fee319cf-5b9b-41a6-90e7-e3cf0dd568b1"
+                "ae191a55-4c5a-4771-abce-a33cfea3f9ed",
+                "9d80518f-217a-42c2-8c2d-8d8d1e18a13e",
+                "e8f1e1e6-d13e-42a7-93dd-2ac889880b68",
+                "ce5e5ed0-70fb-4aa7-9b23-749125da996f",
+                "8deee174-52b8-4273-84d3-b5eaf8123c02",
+                "9dbd2a23-1514-461d-8975-c8123c154759",
+                "891bf203-11fa-43b1-a737-99765a525d8b",
+                "27eb7e08-8df0-43f7-a088-1ec61adcd36d"
             ],
             "roundness": null,
             "version": 1,
@@ -682,10 +682,10 @@
             "verticalAlign": "top",
             "baseline": 18,
             "containerId": null,
-            "originalText": "default text",
+            "originalText": "cfg.TRAIN.OPTIM.LR = 0.1",
             "type": "text",
-            "id": "fae5426e-0bb7-4fd3-b66f-fe708c7e5243",
-            "seed": 91089
+            "id": "e9652bcc-c385-41ec-9bfc-b217fd9ae5ff",
+            "seed": 8627
         },
         {
             "x": 30,
@@ -701,14 +701,14 @@
             "roughness": 1,
             "opacity": 100,
             "groupIds": [
-                "7f91fc96-0303-4058-84a7-5dc12cceeb6e",
-                "8ef3c312-d6a9-4719-a224-513c3dd049b0",
-                "410e7d5e-be61-417f-8655-2bb313034621",
-                "d5ff3a99-648f-493b-b7d6-cefc87385422",
-                "f7c98b05-2715-4d89-9151-c1f8bb2274ca",
-                "e36a6495-4cba-4f1c-82b6-aa3ee22fb908",
-                "81229fae-bac0-4f42-99db-eeb65bbe5137",
-                "fee319cf-5b9b-41a6-90e7-e3cf0dd568b1"
+                "ae191a55-4c5a-4771-abce-a33cfea3f9ed",
+                "9d80518f-217a-42c2-8c2d-8d8d1e18a13e",
+                "e8f1e1e6-d13e-42a7-93dd-2ac889880b68",
+                "ce5e5ed0-70fb-4aa7-9b23-749125da996f",
+                "8deee174-52b8-4273-84d3-b5eaf8123c02",
+                "9dbd2a23-1514-461d-8975-c8123c154759",
+                "891bf203-11fa-43b1-a737-99765a525d8b",
+                "27eb7e08-8df0-43f7-a088-1ec61adcd36d"
             ],
             "roundness": null,
             "version": 1,
@@ -725,10 +725,10 @@
             "verticalAlign": "top",
             "baseline": 18,
             "containerId": null,
-            "originalText": "default text",
+            "originalText": "cfg.TRAIN.OPTIM.MOMENTUM = 0.9",
             "type": "text",
-            "id": "607ac961-8ec0-4794-8536-3e81eba619e5",
-            "seed": 24762
+            "id": "7da8846b-8823-4e8d-bf92-846b29c2d9db",
+            "seed": 50254
         },
         {
             "x": 30,
@@ -744,14 +744,14 @@
             "roughness": 1,
             "opacity": 100,
             "groupIds": [
-                "7f91fc96-0303-4058-84a7-5dc12cceeb6e",
-                "8ef3c312-d6a9-4719-a224-513c3dd049b0",
-                "410e7d5e-be61-417f-8655-2bb313034621",
-                "d5ff3a99-648f-493b-b7d6-cefc87385422",
-                "f7c98b05-2715-4d89-9151-c1f8bb2274ca",
-                "e36a6495-4cba-4f1c-82b6-aa3ee22fb908",
-                "81229fae-bac0-4f42-99db-eeb65bbe5137",
-                "fee319cf-5b9b-41a6-90e7-e3cf0dd568b1"
+                "ae191a55-4c5a-4771-abce-a33cfea3f9ed",
+                "9d80518f-217a-42c2-8c2d-8d8d1e18a13e",
+                "e8f1e1e6-d13e-42a7-93dd-2ac889880b68",
+                "ce5e5ed0-70fb-4aa7-9b23-749125da996f",
+                "8deee174-52b8-4273-84d3-b5eaf8123c02",
+                "9dbd2a23-1514-461d-8975-c8123c154759",
+                "891bf203-11fa-43b1-a737-99765a525d8b",
+                "27eb7e08-8df0-43f7-a088-1ec61adcd36d"
             ],
             "roundness": null,
             "version": 1,
@@ -768,10 +768,10 @@
             "verticalAlign": "top",
             "baseline": 18,
             "containerId": null,
-            "originalText": "default text",
+            "originalText": "cfg.TRAIN.OPTIM.WEIGHT_DECAY = 0.0005",
             "type": "text",
-            "id": "8530bf33-8065-418c-b953-12eb0944bad9",
-            "seed": 8809
+            "id": "0f1d6e2c-c620-4e5b-84ac-0802b589f9c1",
+            "seed": 21393
         },
         {
             "x": 10,
@@ -780,17 +780,17 @@
             "height": 146,
             "angle": 0,
             "strokeColor": "#000000",
-            "backgroundColor": "#ffffff",
+            "backgroundColor": "#1dd6ff",
             "fillStyle": "solid",
             "strokeStyle": "solid",
             "strokeWidth": 1,
             "roughness": 1,
             "opacity": 100,
             "groupIds": [
-                "f57f1ac1-b6f9-47b3-b4d3-40e69dcc4f77",
-                "e36a6495-4cba-4f1c-82b6-aa3ee22fb908",
-                "81229fae-bac0-4f42-99db-eeb65bbe5137",
-                "fee319cf-5b9b-41a6-90e7-e3cf0dd568b1"
+                "07f0d958-d750-49a9-99d9-98d9a4e92ecc",
+                "9dbd2a23-1514-461d-8975-c8123c154759",
+                "891bf203-11fa-43b1-a737-99765a525d8b",
+                "27eb7e08-8df0-43f7-a088-1ec61adcd36d"
             ],
             "roundness": null,
             "version": 1,
@@ -801,8 +801,8 @@
             "link": null,
             "locked": false,
             "type": "rectangle",
-            "id": "c9d15581-f0d9-452a-9b5f-5f172b37ebeb",
-            "seed": 15464
+            "id": "a875e9f8-00b1-4b80-86c7-20948415cb9d",
+            "seed": 11424
         },
         {
             "x": 20,
@@ -818,11 +818,11 @@
             "roughness": 1,
             "opacity": 100,
             "groupIds": [
-                "e3550cb2-da37-4250-af4d-7c971983de92",
-                "f57f1ac1-b6f9-47b3-b4d3-40e69dcc4f77",
-                "e36a6495-4cba-4f1c-82b6-aa3ee22fb908",
-                "81229fae-bac0-4f42-99db-eeb65bbe5137",
-                "fee319cf-5b9b-41a6-90e7-e3cf0dd568b1"
+                "f4c09bb9-b473-42e6-b3b2-0d7efd61e1c9",
+                "07f0d958-d750-49a9-99d9-98d9a4e92ecc",
+                "9dbd2a23-1514-461d-8975-c8123c154759",
+                "891bf203-11fa-43b1-a737-99765a525d8b",
+                "27eb7e08-8df0-43f7-a088-1ec61adcd36d"
             ],
             "roundness": null,
             "version": 1,
@@ -839,10 +839,10 @@
             "verticalAlign": "top",
             "baseline": 18,
             "containerId": null,
-            "originalText": "default text",
+            "originalText": "cfg.MODEL.TYPE = \"ResNet18\"",
             "type": "text",
-            "id": "65d56220-1c46-48e8-bcdb-91faa77979d3",
-            "seed": 22721
+            "id": "f2b25dc2-0fe5-493e-9953-3dd4b721722f",
+            "seed": 17260
         },
         {
             "x": 20,
@@ -858,11 +858,11 @@
             "roughness": 1,
             "opacity": 100,
             "groupIds": [
-                "e3550cb2-da37-4250-af4d-7c971983de92",
-                "f57f1ac1-b6f9-47b3-b4d3-40e69dcc4f77",
-                "e36a6495-4cba-4f1c-82b6-aa3ee22fb908",
-                "81229fae-bac0-4f42-99db-eeb65bbe5137",
-                "fee319cf-5b9b-41a6-90e7-e3cf0dd568b1"
+                "f4c09bb9-b473-42e6-b3b2-0d7efd61e1c9",
+                "07f0d958-d750-49a9-99d9-98d9a4e92ecc",
+                "9dbd2a23-1514-461d-8975-c8123c154759",
+                "891bf203-11fa-43b1-a737-99765a525d8b",
+                "27eb7e08-8df0-43f7-a088-1ec61adcd36d"
             ],
             "roundness": null,
             "version": 1,
@@ -879,10 +879,10 @@
             "verticalAlign": "top",
             "baseline": 18,
             "containerId": null,
-            "originalText": "default text",
+            "originalText": "cfg.MODEL.INPUT_SIZE = 32",
             "type": "text",
-            "id": "ccfffacb-a5dd-47fe-b266-8c724e76dd79",
-            "seed": 39921
+            "id": "e6b80991-207a-4232-9ed6-5d9c374c9a0e",
+            "seed": 99236
         },
         {
             "x": 20,
@@ -898,11 +898,11 @@
             "roughness": 1,
             "opacity": 100,
             "groupIds": [
-                "e3550cb2-da37-4250-af4d-7c971983de92",
-                "f57f1ac1-b6f9-47b3-b4d3-40e69dcc4f77",
-                "e36a6495-4cba-4f1c-82b6-aa3ee22fb908",
-                "81229fae-bac0-4f42-99db-eeb65bbe5137",
-                "fee319cf-5b9b-41a6-90e7-e3cf0dd568b1"
+                "f4c09bb9-b473-42e6-b3b2-0d7efd61e1c9",
+                "07f0d958-d750-49a9-99d9-98d9a4e92ecc",
+                "9dbd2a23-1514-461d-8975-c8123c154759",
+                "891bf203-11fa-43b1-a737-99765a525d8b",
+                "27eb7e08-8df0-43f7-a088-1ec61adcd36d"
             ],
             "roundness": null,
             "version": 1,
@@ -919,10 +919,10 @@
             "verticalAlign": "top",
             "baseline": 18,
             "containerId": null,
-            "originalText": "default text",
+            "originalText": "cfg.MODEL.OUTPUT_SIZE = 10",
             "type": "text",
-            "id": "527718cd-dac8-4a7c-ad73-6968131753cd",
-            "seed": 98347
+            "id": "fbdcebb0-ec6b-4d64-ac63-541a60fef439",
+            "seed": 23169
         },
         {
             "x": 20,
@@ -938,11 +938,11 @@
             "roughness": 1,
             "opacity": 100,
             "groupIds": [
-                "e3550cb2-da37-4250-af4d-7c971983de92",
-                "f57f1ac1-b6f9-47b3-b4d3-40e69dcc4f77",
-                "e36a6495-4cba-4f1c-82b6-aa3ee22fb908",
-                "81229fae-bac0-4f42-99db-eeb65bbe5137",
-                "fee319cf-5b9b-41a6-90e7-e3cf0dd568b1"
+                "f4c09bb9-b473-42e6-b3b2-0d7efd61e1c9",
+                "07f0d958-d750-49a9-99d9-98d9a4e92ecc",
+                "9dbd2a23-1514-461d-8975-c8123c154759",
+                "891bf203-11fa-43b1-a737-99765a525d8b",
+                "27eb7e08-8df0-43f7-a088-1ec61adcd36d"
             ],
             "roundness": null,
             "version": 1,
@@ -959,10 +959,10 @@
             "verticalAlign": "top",
             "baseline": 18,
             "containerId": null,
-            "originalText": "default text",
+            "originalText": "cfg.MODEL.DROPOUT = 0.2",
             "type": "text",
-            "id": "49d9647d-7ecf-43f8-ba5b-3dded002d61b",
-            "seed": 33627
+            "id": "7d33f538-873c-432a-a96b-3232ef4494c1",
+            "seed": 17480
         }
     ],
     "appState": {

@@ -63,7 +63,7 @@ if __name__ == '__main__':
     # now visualize with the sketch builder:
     sketch_builder = SketchBuilder()
     sketch_builder.render_stack_sketch(graph, stacking="vertical")
-    SAVE_FILE = "examples/xd_figures/configuration.excalidraw"
+    SAVE_FILE = "results/configuration.excalidraw"
     sketch_builder.export_to_file(save_path=SAVE_FILE)
     del sketch_builder
 
@@ -89,5 +89,5 @@ if __name__ == '__main__':
         config_dict, base_config_name="config", stacking="vertical")
     # sketch_builder.render_comparitive_stack_sketch(
     #     config_dict, base_config_name="config", stacking="horizontal")
-    SAVE_FILE = "examples/xd_figures/config_comparison.excalidraw"
+    SAVE_FILE = "results/config_comparison.excalidraw"
     sketch_builder.export_to_file(save_path=SAVE_FILE)
