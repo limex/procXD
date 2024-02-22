@@ -2,6 +2,10 @@
 
 A tool for making excalidraw figures procedurally from python. Its very easy to visualize excalidraw files either from web (just load the file at [excalidraw.com](https://excalidraw.com/)) or with a vs-code [plugin](https://marketplace.visualstudio.com/items?itemName=pomdtr.excalidraw-editor) (simply open a `.excalidraw` file in vscode).
 
+## Changes after fork
+
+removed setup.py, migrated to poetry
+
 ## Installation
 
 Simpy run `python setup.py install` to install `procXD` as a package in your python environment.
