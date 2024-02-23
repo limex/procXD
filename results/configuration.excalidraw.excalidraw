@@ -10,14 +10,14 @@
             "height": 756,
             "angle": 0,
             "strokeColor": "#000000",
-            "backgroundColor": "#F80491",
+            "backgroundColor": "#FE38D8",
             "fillStyle": "solid",
             "strokeStyle": "solid",
             "strokeWidth": 1,
             "roughness": 1,
             "opacity": 100,
             "groupIds": [
-                "27eb7e08-8df0-43f7-a088-1ec61adcd36d"
+                "40ca2394-b275-4018-b1ec-71d3d996ca3d"
             ],
             "roundness": null,
             "version": 1,
@@ -28,8 +28,8 @@
             "link": null,
             "locked": false,
             "type": "rectangle",
-            "id": "64012d03-7f53-461b-a354-d4d8e0842ef0",
-            "seed": 97764
+            "id": "3f9c1437-c2a8-4558-93a2-d6715bd4c1ef",
+            "seed": 19206
         },
         {
             "x": 10,
@@ -38,17 +38,17 @@
             "height": 112,
             "angle": 0,
             "strokeColor": "#000000",
-            "backgroundColor": "#c8ff1d",
+            "backgroundColor": "#51ffcc",
             "fillStyle": "solid",
             "strokeStyle": "solid",
             "strokeWidth": 1,
             "roughness": 1,
             "opacity": 100,
             "groupIds": [
-                "498ff9f5-bf20-4615-b3ce-678f4bb369f7",
-                "9dbd2a23-1514-461d-8975-c8123c154759",
-                "891bf203-11fa-43b1-a737-99765a525d8b",
-                "27eb7e08-8df0-43f7-a088-1ec61adcd36d"
+                "8cfd6d48-a75c-4ce1-b8ed-992c1f6f66af",
+                "aef151e5-c125-4ac1-a90c-40756b68bdf8",
+                "9c6c1c1b-2ade-4c9f-88b7-18735bc67a2f",
+                "40ca2394-b275-4018-b1ec-71d3d996ca3d"
             ],
             "roundness": null,
             "version": 1,
@@ -59,8 +59,8 @@
             "link": null,
             "locked": false,
             "type": "rectangle",
-            "id": "4e66ffec-ef14-4697-8ceb-c6ced77365d7",
-            "seed": 86172
+            "id": "18eebbf6-1807-4628-a055-3465702ccdc7",
+            "seed": 89850
         },
         {
             "x": 20,
@@ -76,11 +76,11 @@
             "roughness": 1,
             "opacity": 100,
             "groupIds": [
-                "e8e7ec4a-a0bf-41b0-ac8f-d8c2e354140a",
-                "498ff9f5-bf20-4615-b3ce-678f4bb369f7",
-                "9dbd2a23-1514-461d-8975-c8123c154759",
-                "891bf203-11fa-43b1-a737-99765a525d8b",
-                "27eb7e08-8df0-43f7-a088-1ec61adcd36d"
+                "33689e69-7c68-4c5c-ad62-65d4332d5a6e",
+                "8cfd6d48-a75c-4ce1-b8ed-992c1f6f66af",
+                "aef151e5-c125-4ac1-a90c-40756b68bdf8",
+                "9c6c1c1b-2ade-4c9f-88b7-18735bc67a2f",
+                "40ca2394-b275-4018-b1ec-71d3d996ca3d"
             ],
             "roundness": null,
             "version": 1,
@@ -99,8 +99,8 @@
             "containerId": null,
             "originalText": "cfg.EXPERIMENT.NAME = \"NetworkAblation\"",
             "type": "text",
-            "id": "f15c2450-1262-484a-a1ee-cb6236a49d30",
-            "seed": 10697
+            "id": "a5c57fb2-524f-4afb-9eca-ba310d8243e0",
+            "seed": 67886
         },
         {
             "x": 20,
@@ -116,11 +116,11 @@
             "roughness": 1,
             "opacity": 100,
             "groupIds": [
-                "e8e7ec4a-a0bf-41b0-ac8f-d8c2e354140a",
-                "498ff9f5-bf20-4615-b3ce-678f4bb369f7",
-                "9dbd2a23-1514-461d-8975-c8123c154759",
-                "891bf203-11fa-43b1-a737-99765a525d8b",
-                "27eb7e08-8df0-43f7-a088-1ec61adcd36d"
+                "33689e69-7c68-4c5c-ad62-65d4332d5a6e",
+                "8cfd6d48-a75c-4ce1-b8ed-992c1f6f66af",
+                "aef151e5-c125-4ac1-a90c-40756b68bdf8",
+                "9c6c1c1b-2ade-4c9f-88b7-18735bc67a2f",
+                "40ca2394-b275-4018-b1ec-71d3d996ca3d"
             ],
             "roundness": null,
             "version": 1,
@@ -139,8 +139,8 @@
             "containerId": null,
             "originalText": "cfg.EXPERIMENT.VERSION = \"v1\"",
             "type": "text",
-            "id": "5fe1e3c0-b3d6-47f6-bf03-309f027d5d08",
-            "seed": 89069
+            "id": "9aaa2505-cafc-4e8a-8a99-9e7c002770a7",
+            "seed": 8577
         },
         {
             "x": 20,
@@ -156,11 +156,11 @@
             "roughness": 1,
             "opacity": 100,
             "groupIds": [
-                "e8e7ec4a-a0bf-41b0-ac8f-d8c2e354140a",
-                "498ff9f5-bf20-4615-b3ce-678f4bb369f7",
-                "9dbd2a23-1514-461d-8975-c8123c154759",
-                "891bf203-11fa-43b1-a737-99765a525d8b",
-                "27eb7e08-8df0-43f7-a088-1ec61adcd36d"
+                "33689e69-7c68-4c5c-ad62-65d4332d5a6e",
+                "8cfd6d48-a75c-4ce1-b8ed-992c1f6f66af",
+                "aef151e5-c125-4ac1-a90c-40756b68bdf8",
+                "9c6c1c1b-2ade-4c9f-88b7-18735bc67a2f",
+                "40ca2394-b275-4018-b1ec-71d3d996ca3d"
             ],
             "roundness": null,
             "version": 1,
@@ -179,8 +179,8 @@
             "containerId": null,
             "originalText": "cfg.EXPERIMENT.MACHINE = \"CLUSTER\"",
             "type": "text",
-            "id": "dee59ef3-0c87-41f5-9208-f64fe41237d6",
-            "seed": 74953
+            "id": "9b8c1cbf-3690-435d-8919-da501f3675f7",
+            "seed": 46383
         },
         {
             "x": 10,
@@ -189,17 +189,17 @@
             "height": 180,
             "angle": 0,
             "strokeColor": "#000000",
-            "backgroundColor": "#1de6ff",
+            "backgroundColor": "#51ff67",
             "fillStyle": "solid",
             "strokeStyle": "solid",
             "strokeWidth": 1,
             "roughness": 1,
             "opacity": 100,
             "groupIds": [
-                "f8014cfa-a8e7-474d-bb82-abea70654e4a",
-                "9dbd2a23-1514-461d-8975-c8123c154759",
-                "891bf203-11fa-43b1-a737-99765a525d8b",
-                "27eb7e08-8df0-43f7-a088-1ec61adcd36d"
+                "313ce1d1-65c7-4c9c-8c89-c982c6522201",
+                "aef151e5-c125-4ac1-a90c-40756b68bdf8",
+                "9c6c1c1b-2ade-4c9f-88b7-18735bc67a2f",
+                "40ca2394-b275-4018-b1ec-71d3d996ca3d"
             ],
             "roundness": null,
             "version": 1,
@@ -210,8 +210,8 @@
             "link": null,
             "locked": false,
             "type": "rectangle",
-            "id": "7f817769-c2a3-447a-909e-4a7b87556d90",
-            "seed": 21582
+            "id": "480d7203-f603-487b-bd13-5b3117153720",
+            "seed": 8876
         },
         {
             "x": 20,
@@ -227,11 +227,11 @@
             "roughness": 1,
             "opacity": 100,
             "groupIds": [
-                "7470954d-5c14-4c8e-8e1b-cbc300f11abe",
-                "f8014cfa-a8e7-474d-bb82-abea70654e4a",
-                "9dbd2a23-1514-461d-8975-c8123c154759",
-                "891bf203-11fa-43b1-a737-99765a525d8b",
-                "27eb7e08-8df0-43f7-a088-1ec61adcd36d"
+                "0ae6aa8f-18ff-4eb1-903d-c4188ead545c",
+                "313ce1d1-65c7-4c9c-8c89-c982c6522201",
+                "aef151e5-c125-4ac1-a90c-40756b68bdf8",
+                "9c6c1c1b-2ade-4c9f-88b7-18735bc67a2f",
+                "40ca2394-b275-4018-b1ec-71d3d996ca3d"
             ],
             "roundness": null,
             "version": 1,
@@ -250,8 +250,8 @@
             "containerId": null,
             "originalText": "cfg.DATASET.NAME = \"CIFAR10\"",
             "type": "text",
-            "id": "b725d56c-cc10-4a56-ac64-62ef510b840b",
-            "seed": 41376
+            "id": "bc429927-2e91-4b20-833e-bcea5cc7aa87",
+            "seed": 79049
         },
         {
             "x": 20,
@@ -267,11 +267,11 @@
             "roughness": 1,
             "opacity": 100,
             "groupIds": [
-                "7470954d-5c14-4c8e-8e1b-cbc300f11abe",
-                "f8014cfa-a8e7-474d-bb82-abea70654e4a",
-                "9dbd2a23-1514-461d-8975-c8123c154759",
-                "891bf203-11fa-43b1-a737-99765a525d8b",
-                "27eb7e08-8df0-43f7-a088-1ec61adcd36d"
+                "0ae6aa8f-18ff-4eb1-903d-c4188ead545c",
+                "313ce1d1-65c7-4c9c-8c89-c982c6522201",
+                "aef151e5-c125-4ac1-a90c-40756b68bdf8",
+                "9c6c1c1b-2ade-4c9f-88b7-18735bc67a2f",
+                "40ca2394-b275-4018-b1ec-71d3d996ca3d"
             ],
             "roundness": null,
             "version": 1,
@@ -290,8 +290,8 @@
             "containerId": null,
             "originalText": "cfg.DATASET.PATH = \"/home/aditya/data/cifar10\"",
             "type": "text",
-            "id": "34de0430-fc71-41e5-99c2-4eb0b926285c",
-            "seed": 74250
+            "id": "daf8d8ee-0462-4c7f-b89a-8f4e78868f87",
+            "seed": 63916
         },
         {
             "x": 20,
@@ -307,11 +307,11 @@
             "roughness": 1,
             "opacity": 100,
             "groupIds": [
-                "7470954d-5c14-4c8e-8e1b-cbc300f11abe",
-                "f8014cfa-a8e7-474d-bb82-abea70654e4a",
-                "9dbd2a23-1514-461d-8975-c8123c154759",
-                "891bf203-11fa-43b1-a737-99765a525d8b",
-                "27eb7e08-8df0-43f7-a088-1ec61adcd36d"
+                "0ae6aa8f-18ff-4eb1-903d-c4188ead545c",
+                "313ce1d1-65c7-4c9c-8c89-c982c6522201",
+                "aef151e5-c125-4ac1-a90c-40756b68bdf8",
+                "9c6c1c1b-2ade-4c9f-88b7-18735bc67a2f",
+                "40ca2394-b275-4018-b1ec-71d3d996ca3d"
             ],
             "roundness": null,
             "version": 1,
@@ -330,8 +330,8 @@
             "containerId": null,
             "originalText": "cfg.DATASET.NUM_CLASSES = 5",
             "type": "text",
-            "id": "14d1d33f-e0a8-4021-9aec-a274b55c5f00",
-            "seed": 19812
+            "id": "bb207ffa-2b0e-4797-9fd8-c805b2ef2d13",
+            "seed": 99858
         },
         {
             "x": 20,
@@ -347,11 +347,11 @@
             "roughness": 1,
             "opacity": 100,
             "groupIds": [
-                "7470954d-5c14-4c8e-8e1b-cbc300f11abe",
-                "f8014cfa-a8e7-474d-bb82-abea70654e4a",
-                "9dbd2a23-1514-461d-8975-c8123c154759",
-                "891bf203-11fa-43b1-a737-99765a525d8b",
-                "27eb7e08-8df0-43f7-a088-1ec61adcd36d"
+                "0ae6aa8f-18ff-4eb1-903d-c4188ead545c",
+                "313ce1d1-65c7-4c9c-8c89-c982c6522201",
+                "aef151e5-c125-4ac1-a90c-40756b68bdf8",
+                "9c6c1c1b-2ade-4c9f-88b7-18735bc67a2f",
+                "40ca2394-b275-4018-b1ec-71d3d996ca3d"
             ],
             "roundness": null,
             "version": 1,
@@ -370,8 +370,8 @@
             "containerId": null,
             "originalText": "cfg.DATASET.CLASSES = ['airplane', 'automobile', 'bird', 'cat', 'deer']",
             "type": "text",
-            "id": "8a3f1cd2-2d44-4b6b-a8cc-9c100f9d33be",
-            "seed": 98544
+            "id": "042dd15b-5e6e-4331-802f-f45fd4fe6242",
+            "seed": 33088
         },
         {
             "x": 20,
@@ -387,11 +387,11 @@
             "roughness": 1,
             "opacity": 100,
             "groupIds": [
-                "7470954d-5c14-4c8e-8e1b-cbc300f11abe",
-                "f8014cfa-a8e7-474d-bb82-abea70654e4a",
-                "9dbd2a23-1514-461d-8975-c8123c154759",
-                "891bf203-11fa-43b1-a737-99765a525d8b",
-                "27eb7e08-8df0-43f7-a088-1ec61adcd36d"
+                "0ae6aa8f-18ff-4eb1-903d-c4188ead545c",
+                "313ce1d1-65c7-4c9c-8c89-c982c6522201",
+                "aef151e5-c125-4ac1-a90c-40756b68bdf8",
+                "9c6c1c1b-2ade-4c9f-88b7-18735bc67a2f",
+                "40ca2394-b275-4018-b1ec-71d3d996ca3d"
             ],
             "roundness": null,
             "version": 1,
@@ -410,8 +410,8 @@
             "containerId": null,
             "originalText": "cfg.DATASET.NUM_TRAIN = 50000",
             "type": "text",
-            "id": "96660c96-d006-432c-a4fc-83da58a407de",
-            "seed": 42740
+            "id": "6ad2fc63-a4ae-420c-8d7e-5f39b5f89eef",
+            "seed": 66529
         },
         {
             "x": 10,
@@ -420,17 +420,17 @@
             "height": 268,
             "angle": 0,
             "strokeColor": "#000000",
-            "backgroundColor": "#92ff1d",
+            "backgroundColor": "#c8ff51",
             "fillStyle": "solid",
             "strokeStyle": "solid",
             "strokeWidth": 1,
             "roughness": 1,
             "opacity": 100,
             "groupIds": [
-                "8deee174-52b8-4273-84d3-b5eaf8123c02",
-                "9dbd2a23-1514-461d-8975-c8123c154759",
-                "891bf203-11fa-43b1-a737-99765a525d8b",
-                "27eb7e08-8df0-43f7-a088-1ec61adcd36d"
+                "a5de6921-12a0-4b09-be68-d294d987b927",
+                "aef151e5-c125-4ac1-a90c-40756b68bdf8",
+                "9c6c1c1b-2ade-4c9f-88b7-18735bc67a2f",
+                "40ca2394-b275-4018-b1ec-71d3d996ca3d"
             ],
             "roundness": null,
             "version": 1,
@@ -441,8 +441,8 @@
             "link": null,
             "locked": false,
             "type": "rectangle",
-            "id": "fa101b0c-94fc-4510-aa9e-9350d7bae854",
-            "seed": 60005
+            "id": "ecd546f0-9416-4265-8dba-93827dfa0e78",
+            "seed": 82314
         },
         {
             "x": 20,
@@ -458,12 +458,12 @@
             "roughness": 1,
             "opacity": 100,
             "groupIds": [
-                "06d18397-2eb6-4600-a9c7-408f5b7bc834",
-                "ce5e5ed0-70fb-4aa7-9b23-749125da996f",
-                "8deee174-52b8-4273-84d3-b5eaf8123c02",
-                "9dbd2a23-1514-461d-8975-c8123c154759",
-                "891bf203-11fa-43b1-a737-99765a525d8b",
-                "27eb7e08-8df0-43f7-a088-1ec61adcd36d"
+                "18fed82c-a748-4423-9b03-790722e8dd30",
+                "779849fb-f3e7-4ab1-92a0-8f31b5199b8e",
+                "a5de6921-12a0-4b09-be68-d294d987b927",
+                "aef151e5-c125-4ac1-a90c-40756b68bdf8",
+                "9c6c1c1b-2ade-4c9f-88b7-18735bc67a2f",
+                "40ca2394-b275-4018-b1ec-71d3d996ca3d"
             ],
             "roundness": null,
             "version": 1,
@@ -482,8 +482,8 @@
             "containerId": null,
             "originalText": "cfg.TRAIN.BATCH_SIZE = 128",
             "type": "text",
-            "id": "a37f5e08-f82e-4854-88da-5e35324d2132",
-            "seed": 85945
+            "id": "3a22af06-325e-4ee1-8bd4-eaacf25479f7",
+            "seed": 61188
         },
         {
             "x": 20,
@@ -499,12 +499,12 @@
             "roughness": 1,
             "opacity": 100,
             "groupIds": [
-                "06d18397-2eb6-4600-a9c7-408f5b7bc834",
-                "ce5e5ed0-70fb-4aa7-9b23-749125da996f",
-                "8deee174-52b8-4273-84d3-b5eaf8123c02",
-                "9dbd2a23-1514-461d-8975-c8123c154759",
-                "891bf203-11fa-43b1-a737-99765a525d8b",
-                "27eb7e08-8df0-43f7-a088-1ec61adcd36d"
+                "18fed82c-a748-4423-9b03-790722e8dd30",
+                "779849fb-f3e7-4ab1-92a0-8f31b5199b8e",
+                "a5de6921-12a0-4b09-be68-d294d987b927",
+                "aef151e5-c125-4ac1-a90c-40756b68bdf8",
+                "9c6c1c1b-2ade-4c9f-88b7-18735bc67a2f",
+                "40ca2394-b275-4018-b1ec-71d3d996ca3d"
             ],
             "roundness": null,
             "version": 1,
@@ -523,8 +523,8 @@
             "containerId": null,
             "originalText": "cfg.TRAIN.LOG_ITER = 100",
             "type": "text",
-            "id": "3c48a825-2fbd-4169-b33a-828ff3f54777",
-            "seed": 55712
+            "id": "d0c94171-aa6f-4727-8af7-1fbed409a085",
+            "seed": 59895
         },
         {
             "x": 20,
@@ -540,12 +540,12 @@
             "roughness": 1,
             "opacity": 100,
             "groupIds": [
-                "06d18397-2eb6-4600-a9c7-408f5b7bc834",
-                "ce5e5ed0-70fb-4aa7-9b23-749125da996f",
-                "8deee174-52b8-4273-84d3-b5eaf8123c02",
-                "9dbd2a23-1514-461d-8975-c8123c154759",
-                "891bf203-11fa-43b1-a737-99765a525d8b",
-                "27eb7e08-8df0-43f7-a088-1ec61adcd36d"
+                "18fed82c-a748-4423-9b03-790722e8dd30",
+                "779849fb-f3e7-4ab1-92a0-8f31b5199b8e",
+                "a5de6921-12a0-4b09-be68-d294d987b927",
+                "aef151e5-c125-4ac1-a90c-40756b68bdf8",
+                "9c6c1c1b-2ade-4c9f-88b7-18735bc67a2f",
+                "40ca2394-b275-4018-b1ec-71d3d996ca3d"
             ],
             "roundness": null,
             "version": 1,
@@ -564,8 +564,8 @@
             "containerId": null,
             "originalText": "cfg.TRAIN.LOSSES = ['CE']",
             "type": "text",
-            "id": "f2f43024-af70-4e31-9d15-3cf3114a4e1b",
-            "seed": 24766
+            "id": "fbd46fb5-2dfd-485b-880b-d3b10620fa89",
+            "seed": 94756
         },
         {
             "x": 20,
@@ -574,20 +574,20 @@
             "height": 146,
             "angle": 0,
             "strokeColor": "#000000",
-            "backgroundColor": "#36adff",
+            "backgroundColor": "#6ad4ff",
             "fillStyle": "solid",
             "strokeStyle": "solid",
             "strokeWidth": 1,
             "roughness": 1,
             "opacity": 100,
             "groupIds": [
-                "9d80518f-217a-42c2-8c2d-8d8d1e18a13e",
-                "e8f1e1e6-d13e-42a7-93dd-2ac889880b68",
-                "ce5e5ed0-70fb-4aa7-9b23-749125da996f",
-                "8deee174-52b8-4273-84d3-b5eaf8123c02",
-                "9dbd2a23-1514-461d-8975-c8123c154759",
-                "891bf203-11fa-43b1-a737-99765a525d8b",
-                "27eb7e08-8df0-43f7-a088-1ec61adcd36d"
+                "771d3aee-b15d-4ff3-90c8-36457e8688d0",
+                "161a89dd-da65-4437-9eff-9dd0064274cc",
+                "779849fb-f3e7-4ab1-92a0-8f31b5199b8e",
+                "a5de6921-12a0-4b09-be68-d294d987b927",
+                "aef151e5-c125-4ac1-a90c-40756b68bdf8",
+                "9c6c1c1b-2ade-4c9f-88b7-18735bc67a2f",
+                "40ca2394-b275-4018-b1ec-71d3d996ca3d"
             ],
             "roundness": null,
             "version": 1,
@@ -598,8 +598,8 @@
             "link": null,
             "locked": false,
             "type": "rectangle",
-            "id": "d4b80eb1-864d-4293-b374-6cf938750db2",
-            "seed": 28256
+            "id": "7b472ed4-4e30-43d1-892b-7a6beece75d2",
+            "seed": 53649
         },
         {
             "x": 30,
@@ -615,14 +615,14 @@
             "roughness": 1,
             "opacity": 100,
             "groupIds": [
-                "ae191a55-4c5a-4771-abce-a33cfea3f9ed",
-                "9d80518f-217a-42c2-8c2d-8d8d1e18a13e",
-                "e8f1e1e6-d13e-42a7-93dd-2ac889880b68",
-                "ce5e5ed0-70fb-4aa7-9b23-749125da996f",
-                "8deee174-52b8-4273-84d3-b5eaf8123c02",
-                "9dbd2a23-1514-461d-8975-c8123c154759",
-                "891bf203-11fa-43b1-a737-99765a525d8b",
-                "27eb7e08-8df0-43f7-a088-1ec61adcd36d"
+                "503cdd91-634a-4a44-8b08-5ed96aa8886e",
+                "771d3aee-b15d-4ff3-90c8-36457e8688d0",
+                "161a89dd-da65-4437-9eff-9dd0064274cc",
+                "779849fb-f3e7-4ab1-92a0-8f31b5199b8e",
+                "a5de6921-12a0-4b09-be68-d294d987b927",
+                "aef151e5-c125-4ac1-a90c-40756b68bdf8",
+                "9c6c1c1b-2ade-4c9f-88b7-18735bc67a2f",
+                "40ca2394-b275-4018-b1ec-71d3d996ca3d"
             ],
             "roundness": null,
             "version": 1,
@@ -641,8 +641,8 @@
             "containerId": null,
             "originalText": "cfg.TRAIN.OPTIM.TYPE = \"SGD\"",
             "type": "text",
-            "id": "c95fbb98-9182-4040-a36e-3b6a8216b194",
-            "seed": 87839
+            "id": "852fa0e7-d1a3-4c69-bb24-6c9eecd09e63",
+            "seed": 48265
         },
         {
             "x": 30,
@@ -658,14 +658,14 @@
             "roughness": 1,
             "opacity": 100,
             "groupIds": [
-                "ae191a55-4c5a-4771-abce-a33cfea3f9ed",
-                "9d80518f-217a-42c2-8c2d-8d8d1e18a13e",
-                "e8f1e1e6-d13e-42a7-93dd-2ac889880b68",
-                "ce5e5ed0-70fb-4aa7-9b23-749125da996f",
-                "8deee174-52b8-4273-84d3-b5eaf8123c02",
-                "9dbd2a23-1514-461d-8975-c8123c154759",
-                "891bf203-11fa-43b1-a737-99765a525d8b",
-                "27eb7e08-8df0-43f7-a088-1ec61adcd36d"
+                "503cdd91-634a-4a44-8b08-5ed96aa8886e",
+                "771d3aee-b15d-4ff3-90c8-36457e8688d0",
+                "161a89dd-da65-4437-9eff-9dd0064274cc",
+                "779849fb-f3e7-4ab1-92a0-8f31b5199b8e",
+                "a5de6921-12a0-4b09-be68-d294d987b927",
+                "aef151e5-c125-4ac1-a90c-40756b68bdf8",
+                "9c6c1c1b-2ade-4c9f-88b7-18735bc67a2f",
+                "40ca2394-b275-4018-b1ec-71d3d996ca3d"
             ],
             "roundness": null,
             "version": 1,
@@ -684,8 +684,8 @@
             "containerId": null,
             "originalText": "cfg.TRAIN.OPTIM.LR = 0.1",
             "type": "text",
-            "id": "e9652bcc-c385-41ec-9bfc-b217fd9ae5ff",
-            "seed": 8627
+            "id": "a4f7d357-5d9f-45ed-a025-08d5f6856992",
+            "seed": 33372
         },
         {
             "x": 30,
@@ -701,14 +701,14 @@
             "roughness": 1,
             "opacity": 100,
             "groupIds": [
-                "ae191a55-4c5a-4771-abce-a33cfea3f9ed",
-                "9d80518f-217a-42c2-8c2d-8d8d1e18a13e",
-                "e8f1e1e6-d13e-42a7-93dd-2ac889880b68",
-                "ce5e5ed0-70fb-4aa7-9b23-749125da996f",
-                "8deee174-52b8-4273-84d3-b5eaf8123c02",
-                "9dbd2a23-1514-461d-8975-c8123c154759",
-                "891bf203-11fa-43b1-a737-99765a525d8b",
-                "27eb7e08-8df0-43f7-a088-1ec61adcd36d"
+                "503cdd91-634a-4a44-8b08-5ed96aa8886e",
+                "771d3aee-b15d-4ff3-90c8-36457e8688d0",
+                "161a89dd-da65-4437-9eff-9dd0064274cc",
+                "779849fb-f3e7-4ab1-92a0-8f31b5199b8e",
+                "a5de6921-12a0-4b09-be68-d294d987b927",
+                "aef151e5-c125-4ac1-a90c-40756b68bdf8",
+                "9c6c1c1b-2ade-4c9f-88b7-18735bc67a2f",
+                "40ca2394-b275-4018-b1ec-71d3d996ca3d"
             ],
             "roundness": null,
             "version": 1,
@@ -727,8 +727,8 @@
             "containerId": null,
             "originalText": "cfg.TRAIN.OPTIM.MOMENTUM = 0.9",
             "type": "text",
-            "id": "7da8846b-8823-4e8d-bf92-846b29c2d9db",
-            "seed": 50254
+            "id": "968fd99b-3665-48c6-ab26-a6df6d2f1848",
+            "seed": 56124
         },
         {
             "x": 30,
@@ -744,14 +744,14 @@
             "roughness": 1,
             "opacity": 100,
             "groupIds": [
-                "ae191a55-4c5a-4771-abce-a33cfea3f9ed",
-                "9d80518f-217a-42c2-8c2d-8d8d1e18a13e",
-                "e8f1e1e6-d13e-42a7-93dd-2ac889880b68",
-                "ce5e5ed0-70fb-4aa7-9b23-749125da996f",
-                "8deee174-52b8-4273-84d3-b5eaf8123c02",
-                "9dbd2a23-1514-461d-8975-c8123c154759",
-                "891bf203-11fa-43b1-a737-99765a525d8b",
-                "27eb7e08-8df0-43f7-a088-1ec61adcd36d"
+                "503cdd91-634a-4a44-8b08-5ed96aa8886e",
+                "771d3aee-b15d-4ff3-90c8-36457e8688d0",
+                "161a89dd-da65-4437-9eff-9dd0064274cc",
+                "779849fb-f3e7-4ab1-92a0-8f31b5199b8e",
+                "a5de6921-12a0-4b09-be68-d294d987b927",
+                "aef151e5-c125-4ac1-a90c-40756b68bdf8",
+                "9c6c1c1b-2ade-4c9f-88b7-18735bc67a2f",
+                "40ca2394-b275-4018-b1ec-71d3d996ca3d"
             ],
             "roundness": null,
             "version": 1,
@@ -770,8 +770,8 @@
             "containerId": null,
             "originalText": "cfg.TRAIN.OPTIM.WEIGHT_DECAY = 0.0005",
             "type": "text",
-            "id": "0f1d6e2c-c620-4e5b-84ac-0802b589f9c1",
-            "seed": 21393
+            "id": "a62f05fc-e582-482f-8d68-2dc9583f0594",
+            "seed": 58649
         },
         {
             "x": 10,
@@ -780,17 +780,17 @@
             "height": 146,
             "angle": 0,
             "strokeColor": "#000000",
-            "backgroundColor": "#1dd6ff",
+            "backgroundColor": "#51ff66",
             "fillStyle": "solid",
             "strokeStyle": "solid",
             "strokeWidth": 1,
             "roughness": 1,
             "opacity": 100,
             "groupIds": [
-                "07f0d958-d750-49a9-99d9-98d9a4e92ecc",
-                "9dbd2a23-1514-461d-8975-c8123c154759",
-                "891bf203-11fa-43b1-a737-99765a525d8b",
-                "27eb7e08-8df0-43f7-a088-1ec61adcd36d"
+                "d13a8cba-43c3-4334-a8c8-bacde959b55f",
+                "aef151e5-c125-4ac1-a90c-40756b68bdf8",
+                "9c6c1c1b-2ade-4c9f-88b7-18735bc67a2f",
+                "40ca2394-b275-4018-b1ec-71d3d996ca3d"
             ],
             "roundness": null,
             "version": 1,
@@ -801,8 +801,8 @@
             "link": null,
             "locked": false,
             "type": "rectangle",
-            "id": "a875e9f8-00b1-4b80-86c7-20948415cb9d",
-            "seed": 11424
+            "id": "de603bb5-3b9c-4e65-bf4b-ac7f2ad6adc8",
+            "seed": 53042
         },
         {
             "x": 20,
@@ -818,11 +818,11 @@
             "roughness": 1,
             "opacity": 100,
             "groupIds": [
-                "f4c09bb9-b473-42e6-b3b2-0d7efd61e1c9",
-                "07f0d958-d750-49a9-99d9-98d9a4e92ecc",
-                "9dbd2a23-1514-461d-8975-c8123c154759",
-                "891bf203-11fa-43b1-a737-99765a525d8b",
-                "27eb7e08-8df0-43f7-a088-1ec61adcd36d"
+                "f7c84106-878c-4c75-bcbf-492130733f54",
+                "d13a8cba-43c3-4334-a8c8-bacde959b55f",
+                "aef151e5-c125-4ac1-a90c-40756b68bdf8",
+                "9c6c1c1b-2ade-4c9f-88b7-18735bc67a2f",
+                "40ca2394-b275-4018-b1ec-71d3d996ca3d"
             ],
             "roundness": null,
             "version": 1,
@@ -841,8 +841,8 @@
             "containerId": null,
             "originalText": "cfg.MODEL.TYPE = \"ResNet18\"",
             "type": "text",
-            "id": "f2b25dc2-0fe5-493e-9953-3dd4b721722f",
-            "seed": 17260
+            "id": "d11387d3-7cb7-4c0b-96cb-93473b27839e",
+            "seed": 11912
         },
         {
             "x": 20,
@@ -858,11 +858,11 @@
             "roughness": 1,
             "opacity": 100,
             "groupIds": [
-                "f4c09bb9-b473-42e6-b3b2-0d7efd61e1c9",
-                "07f0d958-d750-49a9-99d9-98d9a4e92ecc",
-                "9dbd2a23-1514-461d-8975-c8123c154759",
-                "891bf203-11fa-43b1-a737-99765a525d8b",
-                "27eb7e08-8df0-43f7-a088-1ec61adcd36d"
+                "f7c84106-878c-4c75-bcbf-492130733f54",
+                "d13a8cba-43c3-4334-a8c8-bacde959b55f",
+                "aef151e5-c125-4ac1-a90c-40756b68bdf8",
+                "9c6c1c1b-2ade-4c9f-88b7-18735bc67a2f",
+                "40ca2394-b275-4018-b1ec-71d3d996ca3d"
             ],
             "roundness": null,
             "version": 1,
@@ -881,8 +881,8 @@
             "containerId": null,
             "originalText": "cfg.MODEL.INPUT_SIZE = 32",
             "type": "text",
-            "id": "e6b80991-207a-4232-9ed6-5d9c374c9a0e",
-            "seed": 99236
+            "id": "6e615ecb-4fa5-4022-9929-aa2859210788",
+            "seed": 72678
         },
         {
             "x": 20,
@@ -898,11 +898,11 @@
             "roughness": 1,
             "opacity": 100,
             "groupIds": [
-                "f4c09bb9-b473-42e6-b3b2-0d7efd61e1c9",
-                "07f0d958-d750-49a9-99d9-98d9a4e92ecc",
-                "9dbd2a23-1514-461d-8975-c8123c154759",
-                "891bf203-11fa-43b1-a737-99765a525d8b",
-                "27eb7e08-8df0-43f7-a088-1ec61adcd36d"
+                "f7c84106-878c-4c75-bcbf-492130733f54",
+                "d13a8cba-43c3-4334-a8c8-bacde959b55f",
+                "aef151e5-c125-4ac1-a90c-40756b68bdf8",
+                "9c6c1c1b-2ade-4c9f-88b7-18735bc67a2f",
+                "40ca2394-b275-4018-b1ec-71d3d996ca3d"
             ],
             "roundness": null,
             "version": 1,
@@ -921,8 +921,8 @@
             "containerId": null,
             "originalText": "cfg.MODEL.OUTPUT_SIZE = 10",
             "type": "text",
-            "id": "fbdcebb0-ec6b-4d64-ac63-541a60fef439",
-            "seed": 23169
+            "id": "01d731e5-ffcf-4153-a5b0-e9eefbd021fb",
+            "seed": 52234
         },
         {
             "x": 20,
@@ -938,11 +938,11 @@
             "roughness": 1,
             "opacity": 100,
             "groupIds": [
-                "f4c09bb9-b473-42e6-b3b2-0d7efd61e1c9",
-                "07f0d958-d750-49a9-99d9-98d9a4e92ecc",
-                "9dbd2a23-1514-461d-8975-c8123c154759",
-                "891bf203-11fa-43b1-a737-99765a525d8b",
-                "27eb7e08-8df0-43f7-a088-1ec61adcd36d"
+                "f7c84106-878c-4c75-bcbf-492130733f54",
+                "d13a8cba-43c3-4334-a8c8-bacde959b55f",
+                "aef151e5-c125-4ac1-a90c-40756b68bdf8",
+                "9c6c1c1b-2ade-4c9f-88b7-18735bc67a2f",
+                "40ca2394-b275-4018-b1ec-71d3d996ca3d"
             ],
             "roundness": null,
             "version": 1,
@@ -961,8 +961,8 @@
             "containerId": null,
             "originalText": "cfg.MODEL.DROPOUT = 0.2",
             "type": "text",
-            "id": "7d33f538-873c-432a-a96b-3232ef4494c1",
-            "seed": 17480
+            "id": "4971b296-0d64-4341-96bd-cb2bcee3c5b1",
+            "seed": 71227
         }
     ],
     "appState": {

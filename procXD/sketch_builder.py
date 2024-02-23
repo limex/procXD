@@ -11,11 +11,11 @@ class SketchBuilder():
     """SketchBuilder class for creating Excalidraw files."""
 
     def __init__(self):
+        """Initialize the SketchBuilder object."""
         self.refresh()
 
     def refresh(self):
-        """Reload the builder.
-        """
+        """Reload the builder by resetting the data and draw objects."""
         self.data = {
             "type": "excalidraw",
             "version": 1,
@@ -31,8 +31,12 @@ class SketchBuilder():
 
     def add_element(self, *args, element_type, return_elem=False, **kwargs):
         """Add an excalidraw primitive to the sketch.
+
         Args:
-            element_type (str)
+            element_type (str): The type of the excalidraw primitive to add.
+
+        Returns:
+            primitives.ExcaliDrawPrimitive: The added excalidraw primitive.
         """
         element_class = getattr(primitives, element_type)
         element = element_class(*args, **kwargs)
@@ -41,7 +45,11 @@ class SketchBuilder():
             return element
 
     def export_to_file(self, save_path):
-        """Export the sketch to a excalidraw file."""
+        """Export the sketch to an excalidraw file.
+
+        Args:
+            save_path (str): The path to save the excalidraw file.
+        """
         for element in self.draw_objs:
             json_obj = element.export()
             self.data['elements'].append(json_obj)
@@ -58,16 +66,15 @@ class SketchBuilder():
         """Create a bounding box around the given element/group.
 
         Args:
-            element (primitives.ExcaliDrawPrimitive)
-            element_type (str, optional): Defaults to "Rectangle".
-            backgroundColor (str, optional): Defaults to "#e64980".
-            padding (int, optional): Defaults to 10.
-            return_group (bool, optional): Defaults to True.
-            disolve_prior_group (bool, optional): Defaults to True.
+            element (primitives.ExcaliDrawPrimitive): The element or group to create a bounding box around.
+            element_type (str, optional): The type of the bounding element. Defaults to "Rectangle".
+            backgroundColor (str, optional): The background color of the bounding element. Defaults to "#e64980".
+            padding (int, optional): The padding around the element. Defaults to 10.
+            return_group (bool, optional): Whether to return a group containing the bounding element and the original element. Defaults to True.
+            disolve_prior_group (bool, optional): Whether to dissolve the prior group. Defaults to True.
 
         Returns:
-            primitives.ExcaliDrawPrimitive: Can be the bounding element 
-                or a group containing the bounding element and the original element.
+            primitives.ExcaliDrawPrimitive: The bounding element or a group containing the bounding element and the original element.
         """
         # Create a bounding box around the element
         # add it before the earliest element from element(if group).
@@ -103,14 +110,13 @@ class SketchBuilder():
         """Create a sequence of Text primitives from the content list.
 
         Args:
-            content (List(srt)):
-            padding (int, optional): Defaults to 10.
-            set_to_code (bool, optional): Defaults to True.
-            return_group (bool, optional): Defaults to True.
+            content (List(srt)): The list of text content.
+            padding (int, optional): The padding around each text element. Defaults to 10.
+            set_to_code (bool, optional): Whether to set the text elements to code style. Defaults to True.
+            return_group (bool, optional): Whether to return a group containing the text elements. Defaults to True.
 
         Returns:
-            primitives.ExcaliDrawPrimitive: Returns a group containing the text elements
-                or a list of text elements.
+            primitives.ExcaliDrawPrimitive: The group containing the text elements or a list of text elements.
         """
         elements = []
         for _, line in enumerate(content):
@@ -131,32 +137,55 @@ class SketchBuilder():
         """Changes the x, y coordinates of the elements in the list to order them.
 
         Args:
-            element_list (List(primitives.ExcaliDrawPrimitives))
-            order_type (str): "order_below" or "order_above" 
-                or "order_left" or "order_right
-            padding (int, optional): Defaults to 10.
+            element_list (List(primitives.ExcaliDrawPrimitives)): The list of elements to order.
+            order_type (str): The type of ordering. Can be "order_below", "order_above", "order_left", or "order_right".
+            padding (int, optional): The padding between elements. Defaults to 10.
         """
         order_func = getattr(self, order_type)
         for i in range(len(element_list)-1):
             order_func(element_list[i], element_list[i+1], padding=padding)
 
     def order_below(self, element1, element2, padding=10):
-        """Order element2 below element1."""
+        """Order element2 below element1.
+
+        Args:
+            element1 (primitives.ExcaliDrawPrimitives): The first element.
+            element2 (primitives.ExcaliDrawPrimitives): The second element.
+            padding (int, optional): The padding between elements. Defaults to 10.
+        """
         element1_bbox = element1.bbox
         element2.y = element1_bbox[3] + padding
 
     def order_above(self, element1, element2, padding=10):
-        """Order element2 above element1."""
+        """Order element2 above element1.
+
+        Args:
+            element1 (primitives.ExcaliDrawPrimitives): The first element.
+            element2 (primitives.ExcaliDrawPrimitives): The second element.
+            padding (int, optional): The padding between elements. Defaults to 10.
+        """
         element1_bbox = element1.bbox
         element2.y = element1_bbox[1] - element2.height - padding
 
     def order_left(self, element1, element2, padding=10):
-        """Order element2 to the left of element1."""
+        """Order element2 to the left of element1.
+
+        Args:
+            element1 (primitives.ExcaliDrawPrimitives): The first element.
+            element2 (primitives.ExcaliDrawPrimitives): The second element.
+            padding (int, optional): The padding between elements. Defaults to 10.
+        """
         element1_bbox = element1.bbox
         element2.x = element1_bbox[0] - element2.width - padding
 
     def order_right(self, element1, element2, padding=10):
-        """Order element2 to the right of element1."""
+        """Order element2 to the right of element1.
+
+        Args:
+            element1 (primitives.ExcaliDrawPrimitives): The first element.
+            element2 (primitives.ExcaliDrawPrimitives): The second element.
+            padding (int, optional): The padding between elements. Defaults to 10.
+        """
         element1_bbox = element1.bbox
         element2.x = element1_bbox[2] + padding
 
@@ -164,8 +193,8 @@ class SketchBuilder():
         """Align the elements horizontally.
 
         Args:
-            element_list (List(primitives.ExcaliDrawPrimitives))
-            align_type (str, optional): Defaults to "left".
+            element_list (List(primitives.ExcaliDrawPrimitives)): The list of elements to align.
+            align_type (str, optional): The type of alignment. Can be "left" or "right". Defaults to "left".
         """
         # Align elements horizontally
         # Get the x positions of the elements
@@ -183,8 +212,8 @@ class SketchBuilder():
         """Align the elements vertically.
 
         Args:
-            element_list (List(primitives.ExcaliDrawPrimitives))
-            align_type (str, optional): Defaults to "left".
+            element_list (List(primitives.ExcaliDrawPrimitives)): The list of elements to align.
+            align_type (str, optional): The type of alignment. Can be "top" or "bottom". Defaults to "top".
         """
         if align_type == "top":
             all_y = [element.y for element in element_list]
@@ -199,14 +228,14 @@ class SketchBuilder():
         """Create a binding arrow between two elements.
 
         Args:
-            element_1 (primitives.ExcaliDrawPrimitives)
-            element_2 (primitives.ExcaliDrawPrimitives)
-            padding (int, optional) Defaults to 10.
-            startArrowhead (str, optional): Defaults to "arrow".
-            endArrowhead (str, optional): Defaults to "arrow".
+            element_1 (primitives.ExcaliDrawPrimitives): The first element.
+            element_2 (primitives.ExcaliDrawPrimitives): The second element.
+            padding (int, optional): The padding between elements. Defaults to 10.
+            startArrowhead (str, optional): The type of arrowhead for the start of the arrow. Defaults to "arrow".
+            endArrowhead (str, optional): The type of arrowhead for the end of the arrow. Defaults to "arrow".
 
         Returns:
-            primitives.Arrow: Returns an arrow primitive.
+            primitives.Arrow: The created arrow primitive.
         """
         assert isinstance(element_1, (primitives.Rectangle, primitives.Text))
         assert isinstance(element_2, (primitives.Rectangle, primitives.Text))
@@ -235,13 +264,12 @@ class SketchBuilder():
         """Render a networkx graph.
 
         Args:
-            graph (networkx.diGraph): Function expects the nodes to contain a "label" and "pos" key.
-                You can generate "pos" using layout functions in networkx.
-            content_key (str, optional): The key to add into each box. Defaults to "label".
-            scale_factor (int, optional): Scaling factor applied to "pos". Defaults to 500.
-            set_text_to_code (bool, optional):  Defaults to True.
-            directed (bool, optional): Directed arrow or not. Defaults to True.
-            padding (int, optional): Defaults to 10.
+            graph (networkx.diGraph): The networkx graph to render.
+            content_key (str, optional): The key to retrieve the content from each node. Defaults to "label".
+            scale_factor (int, optional): The scaling factor applied to the positions of the nodes. Defaults to 500.
+            set_text_to_code (bool, optional): Whether to set the text elements to code style. Defaults to True.
+            directed (bool, optional): Whether to render directed arrows or not. Defaults to True.
+            padding (int, optional): The padding between elements. Defaults to 10.
         """
         # First we need size of each node
         node_dict = {}
