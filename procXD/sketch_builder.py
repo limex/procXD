@@ -259,7 +259,7 @@ class SketchBuilder():
         line.endArrowhead = endArrowhead
         return line
 
-    def render_networkx_graph(self, graph, content_key="label", scale_factor=500,
+    def render_networkx_graph(self, graph, element_type="Ellipse", content_key="label", scale_factor=500,
                               set_text_to_code=True, directed=True, padding=10):
         """Render a networkx graph.
 
@@ -282,7 +282,7 @@ class SketchBuilder():
             text_group = self.create_text_block(
                 content, set_to_code=set_text_to_code, padding=padding)
             backgroundColor = random_hex_color()
-            out_group = self.create_bounding_element(text_group, element_type="Ellipse",
+            out_group = self.create_bounding_element(text_group, element_type,
                                                      padding=padding, return_group=True,
                                                      backgroundColor=backgroundColor,
                                                      disolve_prior_group=True)
