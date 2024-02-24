@@ -28,7 +28,8 @@ if __name__ == "__main__":
         G.add_node(target)
         G.nodes[source]['label'] = f'N {source}'
         G.nodes[target]['label'] = f'N {target}'
-        G.add_edge(source, target, label=relation)
+        G.add_edge(source, target, label=relation) # TODO adding labels to arrow  
+
     
     # Visualize the graph
     pos = nx.circular_layout(G) 
